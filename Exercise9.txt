@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<title>Page Title</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="">
+<style>
+html,body {font-family:"Verdana",sans-serif}
+h1,h2,h3,h4,h5,h6 {font-family:"Segoe UI",sans-serif}
+</style>
+<script src="https://www.w3schools.com/lib/w3.js"></script>
+<body>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Standing_white_tiger.jpg/1280px-Standing_white_tiger.jpg" alt="LA" style="width:100%">
+
+<h1>White Tiger</h1>
+<p>The white Bengal tigers are distinctive due to the color of their fur. The white fur is caused by a lack of the pigment pheomelanin, which is found in Bengal tigers with orange color fur. When compared to Bengal tigers, the white Bengal tigers tend to grow faster and heavier than the orange Bengal tiger.[citation needed] They also tend to be somewhat bigger at birth, and as fully grown adults.</p>
+<p>White Bengal tigers are fully grown when they are 2–3 years of age. White male tigers reach weights of 200 to 230 kilograms (440 to 510 lb) and can grow up to 3 meters (9.8 ft) in length. As with all tigers, the white Bengal tiger's stripes are like fingerprints, with no two tigers having the same pattern. The stripes of the tiger are a pigmentation of the skin; if an individual were to be shaved, its distinctive coat pattern would still be visible.</p>
+<img class="wildLife" src="https://files.worldwildlife.org/wwfcmsprod/images/captive_white_tigers_/story_full_width/6w6galfzis_White_Tigers__Singapore_Zoo.jpg" width="50%">
+<img class="wildLife" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqOs0nVqKM_RMSyuX8zHZPkwdUqHPJIWYmdQ&usqp=CAU" width="50%">
+<img class="wildLife" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVAAq5LTP9vh5jGH2ZRXfzqrvEoFGQK0tv2A&usqp=CAU" width="50%">
+
+<script>
+w3.slideshow(".wildLife", 1500);
+</script>
+
+</body>
+</html>
